@@ -1,4 +1,4 @@
-module github.com/siraken/caniuse-cli
+module github.com/SiraKen/caniuse-cli
 
 go 1.18
 
